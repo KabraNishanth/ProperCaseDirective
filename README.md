@@ -13,7 +13,7 @@ Suppose if you want user to enter his/her name for as input. for eg my name : "N
 I dont want to talk about Caps lock. Hope you understand where am i taking you.
 
 By ading this simple angular directive in your markup as follows:
-Name: <input proper-case type="text" ng-model="user.propercasedname">
+"Name: <input proper-case type="text" ng-model="user.propercasedname">"
 
 User can enter plain text without any no shift press/unpress, caps lock on/off frenzy.
 
